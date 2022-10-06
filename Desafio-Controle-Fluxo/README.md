@@ -5,4 +5,5 @@
 * Diminuir os dois parametros;
 * imprimier no terminal a contagem da subtração.
 
-#### Foi utilizado a IDE Intellij para a criação deste projeto.
+#### Ferramentas utilizadas:
+* IDE Intellij
